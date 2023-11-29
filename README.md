@@ -1,1 +1,42 @@
 # python-api-challenge
+## WeatherPy
+- called OpenWeatherMap API and got the following data
+    - City Name
+    - Latitude
+    - Longitude
+    - Maximum Temperature
+    - Humidity
+    - Cloudiness
+    - Wind Speed
+    - Country
+    - Date
+- a DataFrame was created with the fields described above and exported to a csv file
+- created the following scatter plots:
+    - Latitude vs. Temperature
+    - Latitude vs. Humidity
+    - Latitude vs. Cloudiness
+    - Latitude vs. Wind Speed
+- created a the following scatter plots and calculated/displayed linear regression lineand the r values for each scatter plot listed below:
+    - Northern Hemisphere: Temperature vs. Latitude
+    - Southern Hemisphere: Temperature vs. Latitude
+    - Northern Hemisphere: Humidity vs. Latitude
+    - Southern Hemisphere: Humidity vs. Latitude
+    - Northern Hemisphere: Cloudiness vs. Latitude
+    - Southern Hemisphere: Cloudiness vs. Latitude
+    - Northern Hemisphere: Wind Speed vs. Latitude
+    - Southern Hemisphere: Wind Speed vs. Latitude
+## VacationPy
+- created a DataFrame with the csv file that was exported in the WeatherPy file
+- created a map that displays a point for every city in the DataFrame and the size of the point is the humidity in each city
+- narrowed down the DataFrame to certain weather conditions based on the following conditions:
+    - max temperature
+    - Wind speed
+    - Cloudiness
+- created a new DataFrame called that has the following information:
+    - City
+    - Country
+    - Longitude
+    - Latitude
+    - Humidity
+- used the Geoapify API to find the first hotel located within 10,000 meters the each city's coordinates (latitude, longitude)
+- Added the hotel name and the country as additional information in the hover message for each city on the map
