@@ -40,3 +40,9 @@
     - Humidity
 - used the Geoapify API to find the first hotel located within 10,000 meters the each city's coordinates (latitude, longitude)
 - added the hotel name and the country as additional information in the hover message for each city on the map
+## Collaborators
+- Jasleen Kaur
+- Vanessa Delgado
+- Dianna Stafford
+- Tina Dehghan
+- Harsimran Kaur (Private Tutor)
