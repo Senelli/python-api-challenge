@@ -39,4 +39,4 @@
     - Latitude
     - Humidity
 - used the Geoapify API to find the first hotel located within 10,000 meters the each city's coordinates (latitude, longitude)
-- Added the hotel name and the country as additional information in the hover message for each city on the map
+- added the hotel name and the country as additional information in the hover message for each city on the map
