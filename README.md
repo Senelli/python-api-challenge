@@ -45,4 +45,4 @@
 - Vanessa Delgado
 - Dianna Stafford
 - Tina Dehghan
-- Harsimran Kaur (Private Tutor)
+- Harsimran Kaur
